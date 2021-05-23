@@ -128,11 +128,11 @@ let questions = [{
         answer: 2,
     },
     {
-        question: "Which programming language is Frontend?",
-        choice1: "Python",
-        choice2: "C++",
-        choice3: "JavaScript",
-        choice4: "Kotlin",
+        question: "Guess My career Passion?",
+        choice1: "backend developer",
+        choice2: "Trainer",
+        choice3: "Mobile web Specialist",
+        choice4: "Doctor",
         answer: 3
     }, {
         question: "Which one is a markup Language?",

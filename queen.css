@@ -1,0 +1,20 @@
+a {
+    text-align: center;
+    font-size: 70px;
+    border: 5 solid red;
+    margin-left: 60px;
+    margin-top: 60px;
+    text-decoration: none;
+}
+
+button {
+    text-align: center;
+    border-radius: 80px;
+    margin-left: 500px;
+    margin-top: 300px;
+    border-color: black;
+}
+
+body {
+    background-color: coral;
+}
