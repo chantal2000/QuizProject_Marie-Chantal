@@ -63,11 +63,12 @@
                                                                                      overflow: hidden;
                                                                                  } */
 
-#progressBarFull {
+
+/* #progressBarFull {
     height: 100%;
     background: rgb(11, 223, 36);
     width: 0%;
-}
+} */
 
 @media screen and (max-width: 768px) {
     .choice-container {
@@ -129,7 +130,8 @@
                                                                                         text-align: center;
                                                                                     } */
 
-#progressBar {
+
+/* #progressBar {
     width: 20rem;
     height: 2rem;
     border: 0.2rem solid rgb(11, 223, 34);
@@ -143,7 +145,7 @@
     height: 100%;
     background: rgb(11, 223, 36);
     width: 0%;
-}
+} */
 
 .choice-container {
     display: flex;
@@ -188,7 +190,8 @@ body {
     text-align: center;
 }
 
-#progressBar {
+
+/* #progressBar {
     width: 20rem;
     height: 3rem;
     border: 0.2rem solid rgb(11, 223, 36);
@@ -202,7 +205,7 @@ body {
     height: 100%;
     background: rgb(11, 223, 36);
     width: 0%
-}
+} */
 
 .hud-prefix {
     text-align: center;
